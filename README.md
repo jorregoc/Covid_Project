@@ -12,9 +12,5 @@ Description and source for each variable in the dataset: https://github.com/owid
 
 ## Dashboard
 
-You can found the outputs in Project_outputs folder. If you have Power BI desktop, you can explore **covid_project.pbix** file. Otherwise, you can see an interactive dashboard built in Google Data Studio.
-
-Dashboard link: https://datastudio.google.com/reporting/38cd6960-715f-44d5-89b8-361afac1ee15
-
-Also, the Project_outputs folder contains the pdf version of the report.
+You can found the outputs in Project_outputs folder. If you have Power BI desktop, you can explore **covid_project.pbix** file. Otherwise, you can see a pdf version of the dashboard built in Google Data Studio.
 
